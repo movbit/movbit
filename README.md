@@ -7,7 +7,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074?logo=bootstrap&logoColor=white)
 
-<div style="text-align:center"><img src="./images/Background_github.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
+<!-- <div style="text-align:center"><img src="./images/Background_github.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div> -->
 
 ## I am a Front-End Developer 👩‍💻
 
@@ -23,9 +23,9 @@ In my free time I love reading good novels, watching TV shows, traveling and hor
 
 You can find me on Linkedin and Twitter. You can also send me an email, if you prefer. I am currently looking for a job, so if you are interested in hiring a junior profile, don´t hesitate to contact me ;)
 
-<a href="https://www.linkedin.com/in/miguela/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/public-profile/in/miguel-angel-herrero" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
-<a href="https://twitter.com/conchaasensiomr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
+<!-- <a href="https://twitter.com/conchaasensiomr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a> -->
 
 <!-- <a href="mailto:conchaasensiomr@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a> -->
 
